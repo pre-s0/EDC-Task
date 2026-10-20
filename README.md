@@ -1,7 +1,7 @@
 # Steve Jobs: Interactive Entrepreneur Showcase
 
 EDC JSSUN Technical Team Recruitment 2026, **Task 02 (second-year applicants)**.
-Submitted by: Priyanshu Sharma, second-year CSE.
+Submitted by: Priyanshu Sharma 2500910100146
 
 ## How to view or run
 No install or build step is needed.
